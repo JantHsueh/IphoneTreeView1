@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\StudioProjects\IphoneTreeView11\app\libs\bugly_1.2.6_release.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="0a854630208e4428c45852f56b0dde48e162b130">
+        <dex dex="F:\StudioProjects\IphoneTreeView11\app\build\intermediates\pre-dexed\debug\bugly_1.2.6_release-f8a0396545e42a6d4b97441aded588d3c13a8efd.jar" />
+    </item>
+
+</items>
